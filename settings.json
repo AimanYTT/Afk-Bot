@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "FollowersCraft.aternos.me:59525",
+    "port":59525,
     "version": "1.19.3"
   },
 
